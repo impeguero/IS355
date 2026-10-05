@@ -67,35 +67,11 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ![Task 1 Screenshot](images/week2-task1.png)
 
-**Command used:**
-
-```text
-[Paste command here]
-```
-
-**Output:**
-
-```text
-[Paste output here]
-```
 
 ### Task 2 Evidence
 
 ![Task 2 Screenshot](images/week2-task2.png)
 
-**Command used:**
-
-```text
-[Paste command here]
-```
-
-**Output:**
-
-```text
-[Paste output here]
-```
-
----
 
 ## 3. Notes & Explanations
 
@@ -125,28 +101,9 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ## 4. Project Contributions
 
-**Project task:** [Name of task]
+**Project task:** N/A
 
-**My contribution:**
-[Describe your individual contribution.]
 
-**What I completed:**
-
-* [Contribution]
-* [Contribution]
-* [Contribution]
-
-**Tools/software used:**
-
-* [Tool]
-* [Software]
-
-**Evidence:**
-
-![Project Contribution](images/week2-project.png)
-
-**Result:**
-[Describe the result.]
 
 ---
 
@@ -154,23 +111,13 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ## 1. Tutorial Tasks Completed
 
-### Task 1: [Task Name]
+### Task 1: View ARP Table 
 
-* [What the task required]
-* [What I did]
-* [Result]
 
-### Task 2: [Task Name]
+### Task 2: Draw Network Diagrams 
 
-* [What the task required]
-* [What I did]
-* [Result]
 
-### Task 3: [Task Name]
-
-* [What the task required]
-* [What I did]
-* [Result]
+### Task 3: Learning Reflection 
 
 ---
 
@@ -180,33 +127,12 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ![Task 1 Screenshot](images/week3-task1.png)
 
-**Command used:**
 
-```text
-[Paste command here]
-```
-
-**Output:**
-
-```text
-[Paste output here]
-```
 
 ### Task 2 Evidence
 
 ![Task 2 Screenshot](images/week3-task2.png)
 
-**Command used:**
-
-```text
-[Paste command here]
-```
-
-**Output:**
-
-```text
-[Paste output here]
-```
 
 ---
 
@@ -237,23 +163,8 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ## 4. Project Contributions
 
-**Project task:** [Name of task]
+**Project task:** N/A
 
-**My contribution:**
-[Describe your contribution.]
-
-**What I completed:**
-
-* [Contribution]
-* [Contribution]
-* [Contribution]
-
-**Evidence:**
-
-![Project Contribution](images/week3-project.png)
-
-**Result:**
-[Describe the outcome.]
 
 ---
 
