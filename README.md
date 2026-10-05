@@ -24,7 +24,7 @@
 
 ## 2. Screenshots / Command Outputs
 
-### Task 1 Evidence
+### Task 2 Evidence
 
 ![Task 1 Screenshot](images/Getcomputerinfo.png)
 
@@ -40,7 +40,7 @@
 [Paste output here]
 ```
 
-### Task 2 Evidence
+### Task 3 Evidence
 
 ![Task 2 Screenshot](images/week1-task2.png)
 
