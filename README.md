@@ -24,37 +24,9 @@
 
 ## 2. Screenshots / Command Outputs
 
-### Task 2 Evidence
+
 
 ![Task 1 Screenshot](images/Getcomputerinfo.png)
-
-**Command used:**
-
-```text
-[Paste command here]
-```
-
-**Output:**
-
-```text
-[Paste output here]
-```
-
-### Task 3 Evidence
-
-![Task 2 Screenshot](images/week1-task2.png)
-
-**Command used:**
-
-```text
-[Paste command here]
-```
-
-**Output:**
-
-```text
-[Paste output here]
-```
 
 ---
 
