@@ -47,23 +47,17 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ## 1. Tutorial Tasks Completed
 
-### Task 1: [Task Name]
+### Task 1:Speedtest 
 
-* [What the task required]
-* [What I did]
-* [Result]
+### Task 2: Please check the following web links:
 
-### Task 2: [Task Name]
-
-* [What the task required]
-* [What I did]
-* [Result]
-
-### Task 3: [Task Name]
-
-* [What the task required]
-* [What I did]
-* [Result]
+### Task 3: View a MAC Address with PowerShell
+### Task 4: Use PowerShell to view and record the addresses of your own computer and local router information 
+### Task 5: Test for connectivity between two devices on the Internet
+### Task 6: View DNS to IP Mappings in PowerShell
+### Task 7: Ping Your Local Router 
+### Task 8: Find Addresses for a Website 
+### Task 9: Home Internet Connection (Optional)
 
 ---
 
