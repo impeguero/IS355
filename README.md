@@ -31,56 +31,15 @@
 ---
 
 ## 3. Notes & Explanations
-
-### [Topic / Concept]
-
-**Notes:**
-
-* [Important information learned]
-* [Definition or concept]
-* [Important command/procedure]
-* [Something useful to remember]
-
-**Explanation:**
-[Explain the concept in your own words. Describe what you learned and how the task helped you understand it.]
-
-### [Another Topic]
-
-**Notes:**
-
-* [Important point]
-* [Important point]
-
-**Explanation:**
-[Explain what this means and why it is important.]
+Created a GetHub account and started my journal, I also viewed my computer information and pasted a screenshot above.
 
 ---
 
 ## 4. Project Contributions
 
-**Project task:** [Name of project task]
+**Project task:** N/A
 
-**My contribution:**
-[Explain exactly what you personally worked on.]
 
-**What I completed:**
-
-* [Contribution 1]
-* [Contribution 2]
-* [Contribution 3]
-
-**Tools/software used:**
-
-* [Software]
-* [Tool]
-* [Programming language]
-
-**Evidence:**
-
-![Project Contribution](images/week1-project.png)
-
-**Result:**
-[Explain what you produced or accomplished.]
 
 ---
 
