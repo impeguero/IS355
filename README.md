@@ -8,19 +8,24 @@
 
 ## 1. Tutorial Tasks Completed
 
-### Task 1: [Task Name]
+### Task 1: Start your GitHub Portfolio 
 
-* [What the task required]
-* [What I did]
-* [Result]
+*  Set up your GitHub account, please see the video
 
-### Task 2: [Task Name]
 
-* [What the task required]
-* [What I did]
-* [Result]
+### Task 2: View Your Computer Information 
 
-### Task 3: [Task Name]
+* View Your Computer Information 
+Use PowerShell to view information about your computer hardware and operating system, e.g. CPU, RAM, disk sizes, OS version.
+Get-ComputerInfo -Property "*memory*"
+Get-ComputerInfo -Property "*processor*"
+Record the values in your journal. 
+For RAM and disks, record the values in Bytes as well as with an appropriate prefix. 
+
+* I opened PowerShell and entered Get-ComputerInfo -Property "*memory*"
+Get-ComputerInfo -Property "*processor*" and than I took a screenshot of it and added it into my journal.
+
+### Task 3: Timeline of 800+ operating systems, see 
 
 * [What the task required]
 * [What I did]
