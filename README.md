@@ -1,7 +1,7 @@
 # IS355
 # Tutorial & Project Journal
 
-**Name:** Isa Peguero
+**Name:** Isabel Peguero
 ---
 
 # Week 1
@@ -172,15 +172,14 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ## 1. Tutorial Tasks Completed
 
-### Task 1: [Task Name]
+### Task 1: View Routing Table
 
-* [Task completed]
-* [Result]
+### Task 2: Trace Path Through the Internet 
 
-### Task 2: [Task Name]
+### Task 3:  IP Address Lookup 
 
-* [Task completed]
-* [Result]
+### Task 4: Project Plan
+
 
 ---
 
@@ -235,15 +234,16 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ## 1. Tutorial Tasks Completed
 
-### Task 1: [Task Name]
+### Task 1: View Your Cookies
 
-* [Task completed]
-* [Result]
 
-### Task 2: [Task Name]
 
-* [Task completed]
-* [Result]
+### Task 2: Root Servers 
+
+### Task 3: IP Network Design 
+
+
+
 
 ---
 
@@ -252,16 +252,6 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 ![Week 5 Evidence](images/week5-task.png)
 
 **Command used:**
-
-```text
-[Command]
-```
-
-**Output:**
-
-```text
-[Output]
-```
 
 ---
 
