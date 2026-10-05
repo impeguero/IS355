@@ -32,7 +32,7 @@
 
 ### Task 1 Evidence
 
-![Task 1 Screenshot](images/week1-task1.png)
+![Task 1 Screenshot](images/Getcomputerinfo.png)
 
 **Command used:**
 
