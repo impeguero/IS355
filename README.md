@@ -52,11 +52,17 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 ### Task 2: Please check the following web links:
 
 ### Task 3: View a MAC Address with PowerShell
+
 ### Task 4: Use PowerShell to view and record the addresses of your own computer and local router information 
+
 ### Task 5: Test for connectivity between two devices on the Internet
+
 ### Task 6: View DNS to IP Mappings in PowerShell
+
 ### Task 7: Ping Your Local Router 
+
 ### Task 8: Find Addresses for a Website 
+
 ### Task 9: Home Internet Connection (Optional)
 
 ---
@@ -65,7 +71,7 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ### Task 1 Evidence
 
-![Task 1 Screenshot](images/week2-task1.png)
+![Task 1 Screenshot](images/speedtest.png)
 
 
 ### Task 2 Evidence
