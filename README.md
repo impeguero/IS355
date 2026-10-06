@@ -74,9 +74,34 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 ![Task 1 Screenshot](images/speedtest.png)
 
 
-### Task 2 Evidence
+### Task 3 Evidence
 
-![Task 2 Screenshot](images/week2-task2.png)
+![Task 3 Screenshot](images/macaddress.png)
+
+### Task 4 Evidence
+
+![Task 4 Screenshot](images/Powershellrouterinfo.png)
+![Task 4 Screenshot](images/Powershellcomputer.png)
+
+
+### Task 5 Evidence
+
+![Task 5 Screenshot](images/Testconnection1.png)
+![Task 5 Screenshot](images/Testconnection2.png)
+![Task 5 Screenshot](images/Testconnection3.png)
+![Task 5 Screenshot](images/Testconnection4.png)
+
+### Task 6 Evidence
+
+![Task 6 Screenshot](images/Resolve.png)
+
+### Task 7 Evidence
+
+![Task 7 Screenshot](images/PingLocalRouter.png)
+
+### Task 8 Evidence
+
+![Task 8 Screenshot](images/METMUSEM.png)
 
 
 ## 3. Notes & Explanations
