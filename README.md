@@ -351,15 +351,12 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ## 1. Tutorial Tasks Completed
 
-### Task 1: [Task Name]
+### Task 1: Azure Cloud Computing
 
-* [Task completed]
-* [Result]
 
-### Task 2: [Task Name]
+### Task 2: Analyzing Ping Packet Capture
 
-* [Task completed]
-* [Result]
+### Task 3: Packet Structure
 
 ---
 
@@ -414,15 +411,18 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ## 1. Tutorial Tasks Completed
 
-### Task 1: [Task Name]
+### Task 1:CIA Protections
 
 * [Task completed]
 * [Result]
 
-### Task 2: [Task Name]
+### Task 2: Threat Sources and Motivation
 
-* [Task completed]
-* [Result]
+### Task 3: Explore Vulnerabilities
+
+### Task 4: Vulnerability Disclosures
+
+### Task 5: Find OWASP top 10 vulnerabilities
 
 ---
 
@@ -477,12 +477,14 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ## 1. Tutorial Tasks Completed
 
-### Task 1: [Task Name]
+### Task 1: Select Security Objectives
 
-* [Task completed]
-* [Result]
 
-### Task 2: [Task Name]
+
+### Task 2: Create Asset Invesntory
+
+### Task 3: Conduct a Risk Analysis
+
 
 * [Task completed]
 * [Result]
@@ -623,3 +625,176 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 ## Future Use
 
 [Explain which skills, commands, tools, or concepts you will use in future units or projects.]
+
+---
+
+# Week 11
+
+## 1. Tutorial Tasks Completed
+
+### Task 1: Feedback on Project Report 
+
+
+---
+
+## 2. Screenshots / Command Outputs
+
+![Week 10 Evidence](images/week10-task.png)
+
+**Command used:**
+
+```text
+[Command]
+```
+
+**Output:**
+
+```text
+[Output]
+```
+
+---
+
+## 3. Notes & Explanations
+
+**Notes:**
+
+* [Important concept]
+* [Important procedure]
+* [Important takeaway]
+
+**Explanation:**
+[Explain what you learned.]
+
+---
+
+## 4. Project Contributions
+
+**Project task:** [Task]
+
+**My contribution:**
+[Description]
+
+**Evidence:**
+
+![Project Evidence](images/week10-project.png)
+
+**Result:**
+[Result]
+
+---
+
+# Final Reflection
+
+## Skills Developed
+
+* [Skill 1]
+* [Skill 2]
+* [Skill 3]
+* [Skill 4]
+
+## What I Learned
+
+[Explain the most important things you learned throughout the unit.]
+
+## Challenges
+
+[Explain the challenges you experienced and how you solved them.]
+
+## Project Experience
+
+[Explain your individual contributions and what you learned from working on the project.]
+
+## Future Use
+
+[Explain which skills, commands, tools, or concepts you will use in future units or projects.]
+
+---
+
+# Week 12
+
+## 1. Tutorial Tasks Completed
+
+### Task 1: Nist nice self-assessment
+
+
+### Task 2: Cyber Security
+
+### Task 3: Finalize GetHub
+
+
+
+---
+
+## 2. Screenshots / Command Outputs
+
+![Week 10 Evidence](images/week10-task.png)
+
+**Command used:**
+
+```text
+[Command]
+```
+
+**Output:**
+
+```text
+[Output]
+```
+
+---
+
+## 3. Notes & Explanations
+
+**Notes:**
+
+* [Important concept]
+* [Important procedure]
+* [Important takeaway]
+
+**Explanation:**
+[Explain what you learned.]
+
+---
+
+## 4. Project Contributions
+
+**Project task:** [Task]
+
+**My contribution:**
+[Description]
+
+**Evidence:**
+
+![Project Evidence](images/week10-project.png)
+
+**Result:**
+[Result]
+
+---
+
+# Final Reflection
+
+## Skills Developed
+
+* [Skill 1]
+* [Skill 2]
+* [Skill 3]
+* [Skill 4]
+
+## What I Learned
+
+[Explain the most important things you learned throughout the unit.]
+
+## Challenges
+
+[Explain the challenges you experienced and how you solved them.]
+
+## Project Experience
+
+[Explain your individual contributions and what you learned from working on the project.]
+
+## Future Use
+
+[Explain which skills, commands, tools, or concepts you will use in future units or projects.]
+
