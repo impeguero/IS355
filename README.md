@@ -101,7 +101,7 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ### Task 8 Evidence
 
-![Task 8 Screenshot](images/METMUSEM.png)
+![Task 8 Screenshot](images/METMUSEM.PNG)
 
 
 ## 3. Notes & Explanations
