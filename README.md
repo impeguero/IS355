@@ -159,22 +159,27 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ## 3. Notes & Explanations
 
-### [Topic / Concept]
 
-
-
-**Explanation:**
-[Explain what you learned and how you completed the task.]
-
-### [Topic / Concept]
+### [Task 3]
 
 **Notes:**
 
-* [Important information]
-* [Important information]
+ Tools I learned/used during the first three weeks:
+PowerShell
+Get-ComputerInfo
+Get-NetAdapter
+Get-NetAdapter -Physical
+Get-NetIPConfiguration
+Get-NetIPAddress
+Test-NetConnection
+ping
+Resolve-DnsName
+Get-NetNeighbor
+GitHub
+diagrams.net
 
 **Explanation:**
-[Explain the concept in your own words.]
+The tool I think would be most useful outside of this unit is PowerShell. I could use it to troubleshoot my home network and check information about my computer. For example, Get-NetIPConfiguration can show my IP address and default gateway, while Test-NetConnection can help me check whether I can connect to another device or website. I could also use ping to check the speed and reliability of my connection. These commands could help me figure out whether a problem is with my computer, router, or Internet connection before asking for technical support.
 
 ---
 
