@@ -106,27 +106,15 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ## 3. Notes & Explanations
 
-### [Topic / Concept]
-
-**Notes:**
-
-* [Important information]
-* [Definition]
-* [Procedure]
-* [Important takeaway]
+### [Task 7]
 
 **Explanation:**
-[Explain what you learned in your own words.]
+[The delay between my computer and the local router can be affected by network traffic, Wi-Fi or Ethernet conditions, the computer's workload, and congestion on the local network. The delay may vary over time because the amount of traffic and network activity can change. A local router usually has a very low delay because it is nearby and does not require the connection to travel across the Internet.]
 
-### [Topic / Concept]
-
-**Notes:**
-
-* [Important information]
-* [Important information]
+### [Task 8]
 
 **Explanation:**
-[Explain the concept.]
+[I used the PowerShell command Resolve-DnsName metmuseum.org to find the addressing information for the Metropolitan Museum of Art website. The command returned an A record, which provides the website's IPv4 address. The IPv4 address I found was 103.224.182.244. The TTL was 3600 seconds, and the result appeared in the Answer section. Ionly used the Resolve-DnsName command that was taught in the tutorial. The command returned an IPv4 address (A record), but it did not show any other types of addresses in my result. Therefore, I could not record any additional address types without using commands or methods that were not covered in the tutorial.]
 
 ---
 
@@ -173,11 +161,7 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ### [Topic / Concept]
 
-**Notes:**
 
-* [Important information]
-* [Important information]
-* [Important information]
 
 **Explanation:**
 [Explain what you learned and how you completed the task.]
