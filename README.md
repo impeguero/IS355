@@ -156,7 +156,8 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ### Task 1 Evidence
 
-![Task 1 Screenshot](images/diagramA.png)
+![Task 1 Screenshot](images/screenshot-arp-table.png)
+![Task 1 Screenshot](images/screenshot-arp-table2.png)
 
 
 
