@@ -156,13 +156,14 @@ Created a GetHub account and started my journal, I also viewed my computer infor
 
 ### Task 1 Evidence
 
-![Task 1 Screenshot](images/week3-task1.png)
+![Task 1 Screenshot](images/diagramA.png)
 
 
 
 ### Task 2 Evidence
 
-![Task 2 Screenshot](images/week3-task2.png)
+![Task 2 Screenshot](images/diagramA.png)
+![Task 2 Screenshot](images/diagramb.png)
 
 
 ---
